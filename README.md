@@ -6,6 +6,8 @@ It consists of a timer which runs every minute to check the battery percentage.
 
 The application appears in the task bar as a notification icon, near the click. It shows the percentage there.
 
+Work with .Net Framework 4.0
+
 # Configuration
 
 You can change the minimum battery threshold by creating a file in "*C:\ProgramData\min-battery.txt*" This will override the 20% threshold
